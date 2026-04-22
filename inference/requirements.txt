@@ -1,5 +1,6 @@
 flask
 joblib
 openai-whisper
+torch
 scikit-learn
 prometheus_client

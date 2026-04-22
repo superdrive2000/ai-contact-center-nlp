@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Call Center Analyzer</title>
+</head>
+<body>
+    <h2>Analizador de llamadas</h2>
+
+    <form action="/analyze-ui" method="post" enctype="multipart/form-data">
+        <input type="file" name="audio" required>
+        <button type="submit">Analizar</button>
+    </form>
+
+    {% if text %}
+        <h3>Transcripción:</h3>
+        <p>{{ text }}</p>
+
+        <h3>Sentimiento:</h3>
+        <p>{{ sentiment }}</p>
+    {% endif %}
+</body>
+</html>
