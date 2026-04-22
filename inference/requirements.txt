@@ -1,0 +1,5 @@
+flask
+joblib
+openai-whisper
+scikit-learn
+prometheus_client
