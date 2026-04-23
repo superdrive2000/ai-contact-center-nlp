@@ -8,3 +8,5 @@ producer = KafkaProducer(
 
 producer.send("calls", {"audio_path": "data/sample_calls/Diana_Acaro.wav"})
 producer.flush()
+
+print("Mensaje enviado 🚀")

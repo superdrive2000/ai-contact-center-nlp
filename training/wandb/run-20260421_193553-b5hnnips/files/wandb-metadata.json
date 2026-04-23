@@ -1,0 +1,28 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.1",
+  "startedAt":  "2026-04-22T00:35:53.062518Z",
+  "program":  "C:\\Users\\Lenovo i5\\Documents\\MAESTRIA IA YACHAY TECH\\DESPLIEGUE DE MODELOS A PRODUCCIÓN\\final project\\ai-contact-center\\training\\train.py",
+  "codePath":  "training\\train.py",
+  "codePathLocal":  "train.py",
+  "git":  {
+    "remote":  "https://github.com/superdrive2000/ai-contact-center-nlp.git",
+    "commit":  "1e8e1b3b693e4a98f7f2a60fd6dc2374a61b59e1"
+  },
+  "email":  "francisco.quinga@yachaytech.edu.ec",
+  "root":  "C:\\Users\\Lenovo i5\\Documents\\MAESTRIA IA YACHAY TECH\\DESPLIEGUE DE MODELOS A PRODUCCIÓN\\final project\\ai-contact-center\\training",
+  "host":  "Lenovo",
+  "executable":  "C:\\Users\\Lenovo i5\\Documents\\MAESTRIA IA YACHAY TECH\\DESPLIEGUE DE MODELOS A PRODUCCIÓN\\final project\\ai-contact-center\\venv\\Scripts\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "510979469312",
+      "used":  "425540026368"
+    }
+  },
+  "memory":  {
+    "total":  "25458434048"
+  },
+  "writerId":  "qoiq1yi7f8gfh6qs0zcyvd8utrnyuiwm"
+}

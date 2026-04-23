@@ -13,7 +13,7 @@ RUN apt-get update && apt-get install -y \
 # Crear carpeta de trabajo
 WORKDIR /app
 
-# Copiar archivos
+# Copiar todo (incluye templates y model)
 COPY . .
 
 # Instalar dependencias Python

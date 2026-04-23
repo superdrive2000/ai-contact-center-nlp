@@ -1,0 +1,42 @@
+_wandb:
+    value:
+        cli_version: 0.26.0
+        e:
+            qoiq1yi7f8gfh6qs0zcyvd8utrnyuiwm:
+                codePath: training\train.py
+                codePathLocal: train.py
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "510979469312"
+                        used: "425540026368"
+                email: francisco.quinga@yachaytech.edu.ec
+                executable: C:\Users\Lenovo i5\Documents\MAESTRIA IA YACHAY TECH\DESPLIEGUE DE MODELOS A PRODUCCIÓN\final project\ai-contact-center\venv\Scripts\python.exe
+                git:
+                    commit: 1e8e1b3b693e4a98f7f2a60fd6dc2374a61b59e1
+                    remote: https://github.com/superdrive2000/ai-contact-center-nlp.git
+                host: Lenovo
+                memory:
+                    total: "25458434048"
+                os: Windows-11-10.0.26200-SP0
+                program: C:\Users\Lenovo i5\Documents\MAESTRIA IA YACHAY TECH\DESPLIEGUE DE MODELOS A PRODUCCIÓN\final project\ai-contact-center\training\train.py
+                python: CPython 3.12.1
+                root: C:\Users\Lenovo i5\Documents\MAESTRIA IA YACHAY TECH\DESPLIEGUE DE MODELOS A PRODUCCIÓN\final project\ai-contact-center\training
+                startedAt: "2026-04-22T00:35:53.062518Z"
+                writerId: qoiq1yi7f8gfh6qs0zcyvd8utrnyuiwm
+        m: []
+        python_version: 3.12.1
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "4": 3.12.1
+            "5": 0.26.0
+            "8":
+                - 3
+            "12": 0.26.0
+            "13": windows-amd64
